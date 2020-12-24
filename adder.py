@@ -20,8 +20,8 @@ print (gr+" ║ ├┤ │  ├┤ ║ ╦  ╠═╣ ││ ││├┤ ├┬
 print (re+" ╩ └─┘┴─┘└─┘╚═╝  ╩ ╩─┴┘─┴┘└─┘┴└─")
 
 print (cy+"version : 1.01")
-print (cy+"Make sure you Subscribed Termux Professor On Youtube")
-print (cy+"www.youtube.com/c/TermuxProfessor")
+print (cy+"Make sure you Subscribed Termux Dad")
+print (cy+"www.youtube.com/c/TermuxDad")
 
 print (re+"NOTE :")
 print ("1. Telegram only allow to add 200 members in group by one user.")
